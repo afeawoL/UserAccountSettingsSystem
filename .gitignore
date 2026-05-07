@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+
+# Keep database folder, but do not push generated DB unless your professor wants it
+database/*.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
